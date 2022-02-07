@@ -1,0 +1,46 @@
+.Container{
+    text-align: center;
+    margin-top: 18px;
+    
+}
+table{
+    margin: auto;
+    
+}
+input{
+    font-size: 20px;
+    width: auto;
+    height: 32px;
+    border: 4px solid rgb(255, 8, 8);
+    border-radius: 2rem;
+}
+button{
+    font-size: 40px;
+    background: rgb(88, 224, 224);
+    border-radius: 15px;
+    border-color: black;
+    width: 53px;
+    height: 46px;
+}
+.calculator{
+    display: inline-block;
+    border: 5px solid green;
+    border-collapse: collapse;
+    padding: 10px;
+    background: black;
+    border-radius: 20px;
+}
+.matter{
+    padding: 20px;
+    background-image: url('https://d1sjtleuqoc1be.cloudfront.net/wp-content/uploads/2018/07/10121033/shutterstock_1017596791-860x574.jpg');
+    margin: 50px 50px;
+    margin: inline;
+    
+}
+h1{
+    font-size: 50px;
+    font-weight: 900;
+    color: rgb(238, 153, 26);
+    border: rgb(235, 23, 23);
+}
+
